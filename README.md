@@ -1,2 +1,0 @@
-# CodSoftPythonTasks
- Python programming tasks 
