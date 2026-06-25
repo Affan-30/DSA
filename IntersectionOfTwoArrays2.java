@@ -14,10 +14,10 @@ class Solution {
             }
             }
 
-int[] arr = keys.stream()
-                                   .mapToInt(Integer::intValue)
-                                   .toArray();
-                                   return arr;
+int[] arr = keys.stream().mapToInt(Integer::intValue)
+                         .toArray();
+                                  
+        return arr;
         
 
     }
