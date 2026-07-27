@@ -1,3 +1,6 @@
+
+
+
 class Solution {
     public int maxProduct(int n) {
         if(n < 100){
