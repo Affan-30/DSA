@@ -1,5 +1,6 @@
 class Solution {
     public boolean arrayStringsAreEqual(String[] word1, String[] word2) {
+        // Check if 2 string arrays are equal
         String w1 ="";
         String w2 = "";
         for(int i=0; i<word1.length; i++){
